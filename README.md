@@ -2,7 +2,7 @@
 
 A web app that helps students find textbooks and course reading. Search by title, author or topic, filter by language and availability, sort the results, and keep a personal reading list.
 
-- **Demo video (max 2 min):** `<ADD YOUR VIDEO LINK>`
+- **Demo video (max 2 min):** https://drive.google.com/file/d/1dQfVaSfrGqID4TP8A-lVqUolH_NHJ2j-/view?usp=sharing
 - **Live app (through the load balancer):** http://18.132.52.35
 - **Web01:** http://35.177.168.238 | **Web02:** http://3.8.119.54
 - **Login:** none required. The API key is given in the submission comment.
